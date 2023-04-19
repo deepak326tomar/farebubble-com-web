@@ -97,7 +97,8 @@
 						<div class="contact-c">
 							<img src="images/location-c.png" alt="location-c" class="img-fluid">
 							<p> <strong> 96 Olivia Marie Rd </strong> 
-Brampton, ON L6Y 0N1, Canada </p>
+Brampton, ON L6Y 0N1, Canada </p> 
+
 						</div>
 					</div>
 
