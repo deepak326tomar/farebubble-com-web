@@ -1,0 +1,9 @@
+@charset "utf-8";.system-message, .system-error{padding-right:15px;margin:15px 0px;}
+.system-error{background-color: #FFEBE8;border: 1px solid #DD3C10;display:block;font-family: "lucida grande",tahoma,verdana,arial,sans-serif;color:#333;}
+.top-margin{margin-top:10px;}
+.message-small{font-size:10px;color:#999;}
+.system-error ul{list-style:none;}
+.system-error a{color:#DD3C10;}
+.system-message{background-color: #e8ffe9;Border: 1px solid #15dd10;display:block;font-family: "lucida grande",tahoma,verdana,arial,sans-serif;color:#333;}
+.system-message ul{list-style:none;}
+.system-message a{color:#DD3C10;}

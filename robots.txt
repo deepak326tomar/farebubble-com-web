@@ -1,0 +1,9 @@
+ROBOTS.TXT 
+
+User-agent: *
+Allow: /
+Disallow: /*%
+Disallow: /*?
+
+
+Sitemap: https://www.farebubble.com/sitemap.xml

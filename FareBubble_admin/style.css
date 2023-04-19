@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	 font-size:14px;font-family:Arial, Helvetica, sans-serif;
+}
+#wrapper
+{
+	margin:0 auto;
+	width:700px;
+}
+.invoice_form
+{
+	float:left;width:100%;
+}
+section
+{
+	display:block;
+}
+.inner_heading
+{
+	 float: left;
+     font-size: 24px;
+     text-align: center;
+     text-transform: uppercase;
+     width: 100%;
+}
+.inner
+{
+	width:100%;float:left;margin:10px 0px;
+}
+.inner img
+{
+	width:auto;float:left;
+}
+.inner h2
+{
+	 float:right;
+	 font-size: 20px;
+     text-transform: capitalize;
+     width: auto;
+}
+#btnprint
+{
+	 float:right;
+	 margin-bottom:10px;
+}

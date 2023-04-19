@@ -1,0 +1,16 @@
+[15-Jul-2017 14:35:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/fareskarzxc/public_html/fareskart_mgmt/includes/config.php on line 11
+[15-Jul-2017 14:36:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/fareskarzxc/public_html/fareskart_mgmt/includes/config.php on line 11
+[15-Jul-2017 14:36:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/fareskarzxc/public_html/fareskart_mgmt/includes/config.php on line 11
+[15-Jul-2017 14:36:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/fareskarzxc/public_html/fareskart_mgmt/includes/config.php on line 11
+[28-May-2019 11:38:17 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/softinfts/public_html/farebubble/FareBubble_admin/login.php on line 38
+[28-May-2019 11:38:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/softinfts/public_html/farebubble/FareBubble_admin/login.php on line 40
+[28-May-2019 15:08:55 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/softinfts/public_html/farebubble/FareBubble_admin/login.php on line 38
+[28-May-2019 15:08:55 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/softinfts/public_html/farebubble/FareBubble_admin/login.php on line 40
+[28-May-2019 16:39:35 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/softinfts/public_html/farebubble/FareBubble_admin/login.php on line 38
+[28-May-2019 16:39:35 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/softinfts/public_html/farebubble/FareBubble_admin/login.php on line 40
+[28-May-2019 16:40:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/softinfts/public_html/farebubble/FareBubble_admin/login.php on line 38
+[28-May-2019 16:40:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/softinfts/public_html/farebubble/FareBubble_admin/login.php on line 40
+[28-May-2019 18:22:20 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/softinfts/public_html/farebubble/FareBubble_admin/login.php on line 38
+[28-May-2019 18:22:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/softinfts/public_html/farebubble/FareBubble_admin/login.php on line 40
+[31-May-2019 18:39:37 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/softinfts/public_html/farebubble/FareBubble_admin/login.php on line 38
+[31-May-2019 18:39:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/softinfts/public_html/farebubble/FareBubble_admin/login.php on line 40
